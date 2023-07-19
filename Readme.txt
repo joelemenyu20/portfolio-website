@@ -1,1 +1,3 @@
-This is my portfolio website, feel free to check it out.
+This is my portfolio website.
+Feel free to check it out at https://emenyujoel.netlify.app/
+
